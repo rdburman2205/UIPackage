@@ -1,2 +1,2 @@
 # UIPackage
-This is my first react project to publish as npm package
+This is a react project to publish components as npm package
